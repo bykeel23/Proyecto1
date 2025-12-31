@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+.python-version
+
+# Variables de entorno y credenciales
+.env
+
+# Archivos de compilación y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Lock de dependencias (si no quieres subirlo)
+uv.lock
+
+# Archivos temporales de editor
+.vscode/
+.idea/
